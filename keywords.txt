@@ -1,0 +1,24 @@
+BoodskapGateway		KEYWORD1
+DummyPrinter		KEYWORD1
+MessageListener		KEYWORD1
+
+send			KEYWORD2
+trigger 		KEYWORD2
+insert 			KEYWORD2
+setPrinter		KEYWORD2
+setServer		KEYWORD2
+ip			KEYWORD2
+port			KEYWORD2
+setDomainKey		KEYWORD2
+domainKey		KEYWORD2
+setApiKey		KEYWORD2
+apiKey			KEYWORD2
+setDeviceId		KEYWORD2
+deviceId		KEYWORD2
+setDeviceModel		KEYWORD2
+deviceModel		KEYWORD2
+setFwVersion		KEYWORD2
+fwVersion		KEYWORD2
+setListener		KEYWORD2
+listener		KEYWORD2
+connected		KEYWORD2
